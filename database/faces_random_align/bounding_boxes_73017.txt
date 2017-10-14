@@ -1,3 +1,0 @@
-allface_test/faces_random_align/allface/face_0061.png
-allface_test/faces_random_align/allface/face_0084.png
-allface_test/faces_random_align/allface/face_0174.png
